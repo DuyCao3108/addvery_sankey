@@ -9,7 +9,7 @@ from email.mime.text import MIMEText
 from email.mime.image import MIMEImage
 from email.mime.multipart import MIMEMultipart
 
-PROCESS_NAME = "PLOTLY_ADDVERY"
+PROCESS_NAME = "ADDVERY_SANKEY"
 LOG_STORE_FOLDER = "/home/duy.caov/work_space/log_store"
 EMAIL = 'duy.caov@homecredit.vn'
 

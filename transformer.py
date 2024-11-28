@@ -5,7 +5,7 @@ CSV_PATH = '/home/duy.caov/work_space/apps/PLOTLY_SANKEY/input_data.csv'
 df = pd.read_csv(CSV_PATH)
 
 # Fill na
-df = df.fillna("Unidentified")
+df = df.fillna("Unidentified/New")
 
 # Rename 
 df.replace(to_replace='1-Active Customer', value='1-Active', inplace=True)
