@@ -5,6 +5,7 @@ import regex as re
 from datetime import datetime
 import os
 from icecream import ic
+import math
 
 from sankey_settings import Settings
 
@@ -44,7 +45,7 @@ class SankeyMaker():
             _node_str_name = row[source_col]
             _node_index = self.label_map[_node_str_name]
             
-            display_label = "" if _percen_on_node < Settings.SHOW_THRESHOLD else f"({str(_percen_on_node)}%, {str(_sum_on_node)})"
+            display_label = self.__display_label_customize(stage_counter = 1, _percen_on_node = _percen_on_node, _sum_on_node = _sum_on_node)
             self.sankey_input["display_labels"][_node_index] = f"{_node_str_name.split(_split_char)[-1]} {display_label}"
             
             self.sankey_input["stage_nodes_value"][0][_node_index] = _sum_on_node
@@ -61,7 +62,7 @@ class SankeyMaker():
             _node_str_name = row[target_col]
             _node_index = self.label_map[_node_str_name]
             
-            display_label = "" if _percen_on_node < Settings.SHOW_THRESHOLD else f"({str(_percen_on_node)}%, {str(_sum_on_node)})"
+            display_label = self.__display_label_customize(stage_counter = 2, _percen_on_node = _percen_on_node, _sum_on_node = _sum_on_node)
             self.sankey_input["display_labels"][_node_index] = f"{_node_str_name.split(_split_char)[-1]} {display_label}"
             
             # Add custom data
@@ -92,7 +93,7 @@ class SankeyMaker():
             _node_str_name = row[target_col]
             _node_index = self.label_map[_node_str_name]
             
-            display_label = "" if _percen_on_node < Settings.SHOW_THRESHOLD else f"({str(_percen_on_node)}%, {str(_sum_on_node)})"
+            display_label = self.__display_label_customize(stage_counter = stage_counter, _percen_on_node = _percen_on_node, _sum_on_node = _sum_on_node)
             self.sankey_input["display_labels"][_node_index] = f"{_node_str_name.split(_split_char)[-1]} {display_label}"
             
             # Add custom data
@@ -126,7 +127,20 @@ class SankeyMaker():
             if node_overwrite in self.color_node_map:
                 self.color_node_map[node_overwrite] = self.settings['color_overwrite'][node_overwrite]
 
-
+    def __display_label_customize(self, stage_counter, _percen_on_node, _sum_on_node):
+        unit_dict = {
+            1:'',
+            1_000: 'K',
+            1_000_000: 'M',
+            1_000_000_000: 'Bn'
+        }
+        
+        value_label = str(f"{math.floor(_sum_on_node/self.settings['unit_divide']):,}") + unit_dict[self.settings['unit_divide']]
+        display_label = "" if _percen_on_node < Settings.SHOW_THRESHOLD else f"({str(_percen_on_node)}%, {value_label})"
+        display_label = "" if stage_counter == self.settings['hide_stage_label'] else f"({str(_percen_on_node)}%, {value_label})"
+        
+        return display_label
+    
     # private execution steps
     def _read_data(self):
         self.df = pd.read_csv(self.input_data_path)
@@ -151,7 +165,9 @@ class SankeyMaker():
             "color_theme_name": "THEME_1",
             "color_overwrite": {},
             "node_tohide_sr_tar": None,
-            "split_char": Settings.STAGE_NAME_DELIMITER
+            "split_char": Settings.STAGE_NAME_DELIMITER,
+            "hide_stage_label": None,
+            "unit_divide": 1
         }
         
         if self.custom_settings is not None:
@@ -225,7 +241,6 @@ class SankeyMaker():
                 return x_axises[cur_stage] if x_axises[cur_stage] != 1 else 0.999
                 
             display_labels = self.sankey_input['display_labels']
-            ic(display_labels)
             stage_nodes_value = self.sankey_input['stage_nodes_value']
             sankey_node_order = {
                 "x_axises": {},
@@ -341,14 +356,14 @@ class SankeyMaker():
             
         self.fig.update_layout(
             title={
-                'text': f"Sankey Chart created at {datetime.now().strftime('%H-%M-%S')}",
+                'text': f"Client Addvery Segment",
                 'y':0.95,
                 'x':0.5,
                 'xanchor':'center',
                 'yanchor':'top',
                 'font_size':30
             },
-            font=dict(size=12, color="#3C3D37", family="Arial Black"),  # General font for labels
+            font=dict(size=9, color="#3C3D37", family="Arial Black"),  # General font for labels
             plot_bgcolor="lightyellow",  # Plot background color
             paper_bgcolor=bg_color,   # Paper background color
             hoverlabel=dict(font_size=16, font_family="Helvetica"),  # Hover label font customization

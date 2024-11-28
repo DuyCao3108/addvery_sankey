@@ -19,12 +19,14 @@ AGG_FOR_VALUE_COLUMN = "sum"
 # OPTIONAL
 CUSTOM_SETTINGS = {
     "node_order": {
-        "1-Active Customer":0,
+        "1-Active":0,
         "2-Onboarding":1,
         "3-Retention":2,
         "4-Winback":3,
         "Unidentified":4
     },
+    "hide_stage_label": 5,
+    "unit_divide": 1_000,
     "color_theme_name": "THEME_1", # watch out CASE
     # "color_overwrite": {
     #     "NC": "#3C3D37"
