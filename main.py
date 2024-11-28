@@ -32,7 +32,7 @@ def send_email(email, app_name, content, msg_type="info"):
 def run_command(command):
     """Executes a command and checks its success."""
     try:
-        print(f">> RUNNING COMMAND: {' '.join(command)} ==============")
+        print(f">> RUNNING COMMAND: {' '.join(command)}")
         # Run the command and capture output
         result = subprocess.run(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, universal_newlines=True, check=True)
         print(f"SUCCESS")
