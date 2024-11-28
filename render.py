@@ -23,11 +23,15 @@ CUSTOM_SETTINGS = {
         "2-Onboarding":1,
         "3-Retention":2,
         "4-Winback":3,
-        "Unidentified":4
+        "Unidentified/New":4
     },
     "hide_stage_label": 5,
     "unit_divide": 1_000,
     "color_theme_name": "THEME_1", # watch out CASE
+    "to_hide_src_tar": [
+        (3, "Unidentified/New"),
+        (4, "3-Retention")
+    ]
     # "color_overwrite": {
     #     "NC": "#3C3D37"
     # },

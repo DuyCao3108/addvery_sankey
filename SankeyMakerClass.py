@@ -78,8 +78,13 @@ class SankeyMaker():
         _split_char = self.settings['split_char']
         
         for _, row in df2.iterrows():
-            if row[source_col].split(_split_char)[-1] == self.settings['node_tohide_sr_tar'] and row[target_col].split(_split_char)[-1] == self.settings['node_tohide_sr_tar']:
-                continue
+            # hiding nodes
+            if self.settings['to_hide_src_tar'] is not None:
+                to_hide_stage = stage_counter == self.settings['to_hide_src_tar'][0][0] 
+                to_hide_nodes = row[source_col].split(_split_char)[-1] == self.settings['to_hide_src_tar'][0][1] and row[target_col].split(_split_char)[-1] == self.settings['to_hide_src_tar'][1][1]
+                
+                if to_hide_stage == 1 and to_hide_nodes ==1:
+                    continue
             
             # Add source, target, value
             self.sankey_input['sources'].append(self.label_map[row[source_col]])
@@ -167,7 +172,8 @@ class SankeyMaker():
             "node_tohide_sr_tar": None,
             "split_char": Settings.STAGE_NAME_DELIMITER,
             "hide_stage_label": None,
-            "unit_divide": 1
+            "unit_divide": 1,
+            "to_hide_src_tar": None
         }
         
         if self.custom_settings is not None:
