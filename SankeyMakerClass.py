@@ -205,8 +205,8 @@ class SankeyMaker():
         
         for istage, stage_name  in enumerate(stage_names_list):
             self.annotations.append(dict(
-                x = 0.001 + istage/(len(stage_names_list)-1),  # Position on the x-axis
-                y = -0.03,  # Position on the y-axis
+                x = -0.031 + istage/(len(stage_names_list)-1-0.27),  # Position on the x-axis
+                y = -0.05,  # Position on the y-axis
                 xref='paper',  # Reference to the paper coordinates, not the data
                 yref='paper',  # Reference to the paper coordinates
                 text=self.stage_cols_map[stage_name],  # Text you want to display
@@ -225,6 +225,7 @@ class SankeyMaker():
                 return x_axises[cur_stage] if x_axises[cur_stage] != 1 else 0.999
                 
             display_labels = self.sankey_input['display_labels']
+            ic(display_labels)
             stage_nodes_value = self.sankey_input['stage_nodes_value']
             sankey_node_order = {
                 "x_axises": {},
@@ -263,7 +264,7 @@ class SankeyMaker():
                 last_node_value = last_node_values.pop()
                 
                 # SHOULD BE NAMED 'CUR_NODE_YAXIS'
-                cur_node_xaxis = last_node_value[0] + (last_node_value[1] / stage_height)  # CUSTOMIZE THIS (E.G. +0.15)
+                cur_node_xaxis = last_node_value[0] + (last_node_value[1] / stage_height) # CUSTOMIZE THIS (E.G. +0.15)
                 cur_node_xaxis = cur_node_xaxis if cur_node_xaxis > 0.001 else last_node_value[0] + (last_node_value[1] / stage_height)
                 cur_node_value = stage[_node_index]
                 sankey_node_order['y_axises'][_node_index] = cur_node_xaxis
@@ -279,7 +280,9 @@ class SankeyMaker():
                     
                     last_node_value = last_node_values.pop()
                     
-                    cur_node_xaxis = last_node_value[0] + (last_node_value[1] / stage_height) # CUSTOMIZE THIS (E.G. +0.15)
+                    cur_node_xaxis = last_node_value[0] + (last_node_value[1] / stage_height) + 0.1 # CUSTOMIZE THIS (E.G. +0.15) || WHAT MATTER IS TO MAKE SURE NODE HEIGHT IS LARGER, NOT OVERLAPPING EACH OTHER
+                    cur_node_xaxis = cur_node_xaxis if cur_node_xaxis > 0.001 else last_node_value[0] + (last_node_value[1] / stage_height)
+                    cur_node_xaxis = cur_node_xaxis if cur_node_xaxis < 1 else 0.99 # THIS ENSURE LAST NODE CANT HAVE > 1 HEIGHT, VERY IMPORTANT
                     cur_node_value = stage[_node_index]
                     
                     sankey_node_order['y_axises'][_node_index] = cur_node_xaxis
