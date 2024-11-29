@@ -300,7 +300,7 @@ class SankeyMaker():
                     
                     last_node_value = last_node_values.pop()
                     
-                    cur_node_xaxis = last_node_value[0] + (last_node_value[1] / stage_height) + 0.11 # CUSTOMIZE THIS (E.G. +0.15) || WHAT MATTER IS TO MAKE SURE NODE HEIGHT IS LARGER, NOT OVERLAPPING EACH OTHER
+                    cur_node_xaxis = last_node_value[0] + (last_node_value[1] / stage_height) + 0.12 # CUSTOMIZE THIS (E.G. +0.15) || WHAT MATTER IS TO MAKE SURE NODE HEIGHT IS LARGER, NOT OVERLAPPING EACH OTHER
                     cur_node_xaxis = cur_node_xaxis if cur_node_xaxis > 0.001 else last_node_value[0] + (last_node_value[1] / stage_height)
                     cur_node_xaxis = cur_node_xaxis if cur_node_xaxis < 1 else 0.99 # THIS ENSURE LAST NODE CANT HAVE > 1 HEIGHT, VERY IMPORTANT
                     cur_node_value = stage[_node_index]
