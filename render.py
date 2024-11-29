@@ -5,14 +5,14 @@ import os
 # MANDATORY
 INPUT_DATA_PATH = os.path.join(os.getcwd(), "transformed_data.csv")
 STAGE_COLS_MAP = {
-    "2024_06": "2024_06",
-    "2024_07": "2024_07",
-    "2024_08": "2024_08",
-    "2024_09": "2024_09",
-    "2024_10": "2024_10",
-    '2024_11': '2024_11'
+    "CLIENT_ADDVERY_SEGMENT_JUN": "JUN",
+    "CLIENT_ADDVERY_SEGMENT_JUL": "JUL",
+    "CLIENT_ADDVERY_SEGMENT_AUG": "AUG",
+    "CLIENT_ADDVERY_SEGMENT_SEP": "SEP",
+    "CLIENT_ADDVERY_SEGMENT_OCT": "OCT",
+    "CLIENT_ADDVERY_SEGMENT_NOV": "NOV"
 }
-VALUE_COLUMN = "CNT_SKP_CLIENT"
+VALUE_COLUMN = "CNT"
 AGG_FOR_VALUE_COLUMN = "sum" 
 
 
@@ -23,19 +23,19 @@ CUSTOM_SETTINGS = {
         "2-Onboarding":1,
         "3-Retention":2,
         "4-Winback":3,
-        "Unidentified/New":4
     },
     "hide_stage_label": 5,
     "unit_divide": 1_000,
     "color_theme_name": "THEME_1", # watch out CASE
-    "to_hide_src_tar": [
-        (3, "Unidentified/New"),
-        (4, "3-Retention")
-    ]
+    # "to_hide_src_tar": [
+    #     (3, "New Signed"),
+    #     (4, "3-Retention")
+    # ],
+    
     # "color_overwrite": {
     #     "NC": "#3C3D37"
     # },
-    # "node_tohide_sr_tar": "NC"
+    # "node_tohide_sr_tar": "New Sign"
 }
 
 # CUSTOM_SETTINGS = None

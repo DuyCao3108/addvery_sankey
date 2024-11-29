@@ -6,7 +6,6 @@ from datetime import datetime
 import os
 from icecream import ic
 import math
-
 from sankey_settings import Settings
 
 
@@ -227,8 +226,8 @@ class SankeyMaker():
         
         for istage, stage_name  in enumerate(stage_names_list):
             self.annotations.append(dict(
-                x = -0.031 + istage/(len(stage_names_list)-1-0.27),  # Position on the x-axis
-                y = -0.05,  # Position on the y-axis
+                x = -0.022 + istage/(len(stage_names_list)-1-0.20),  # Position on the x-axis
+                y = -0.07,  # Position on the y-axis
                 xref='paper',  # Reference to the paper coordinates, not the data
                 yref='paper',  # Reference to the paper coordinates
                 text=self.stage_cols_map[stage_name],  # Text you want to display
@@ -301,7 +300,7 @@ class SankeyMaker():
                     
                     last_node_value = last_node_values.pop()
                     
-                    cur_node_xaxis = last_node_value[0] + (last_node_value[1] / stage_height) + 0.1 # CUSTOMIZE THIS (E.G. +0.15) || WHAT MATTER IS TO MAKE SURE NODE HEIGHT IS LARGER, NOT OVERLAPPING EACH OTHER
+                    cur_node_xaxis = last_node_value[0] + (last_node_value[1] / stage_height) + 0.11 # CUSTOMIZE THIS (E.G. +0.15) || WHAT MATTER IS TO MAKE SURE NODE HEIGHT IS LARGER, NOT OVERLAPPING EACH OTHER
                     cur_node_xaxis = cur_node_xaxis if cur_node_xaxis > 0.001 else last_node_value[0] + (last_node_value[1] / stage_height)
                     cur_node_xaxis = cur_node_xaxis if cur_node_xaxis < 1 else 0.99 # THIS ENSURE LAST NODE CANT HAVE > 1 HEIGHT, VERY IMPORTANT
                     cur_node_value = stage[_node_index]
