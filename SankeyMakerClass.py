@@ -236,6 +236,18 @@ class SankeyMaker():
                 align="center"  # Text alignment
             ))
         
+    def _log_timestamp(self):
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        self.annotations.append(dict(
+                text=f"Refreshed at: {timestamp}",  # Text content
+                x=0.99,  
+                y=-0.1,  #
+                showarrow=False,  
+                font=dict(size=9, color="gray"), 
+                xref="paper",  
+                yref="paper", 
+        ))
+    
     def _set_sankey_node_order(self):
         if self.settings['node_order'] is None: 
             self.sankey_input["sankey_node_order"] = None 
@@ -395,6 +407,7 @@ class SankeyMaker():
         # render sankey
         self._set_sankey_input()
         self._set_stage_names()
+        self._log_timestamp()
         self._set_sankey_node_order()
         self._set_sankey_chart()
         # export sankey
