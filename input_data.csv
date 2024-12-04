@@ -1,437 +1,391 @@
 CNT,CLIENT_ADDVERY_SEGMENT_JUN,CLIENT_ADDVERY_SEGMENT_JUL,CLIENT_ADDVERY_SEGMENT_AUG,CLIENT_ADDVERY_SEGMENT_SEP,CLIENT_ADDVERY_SEGMENT_OCT,CLIENT_ADDVERY_SEGMENT_NOV
 2,1-Active Customer,2-Onboarding,2-Onboarding,1-Active Customer,3-Retention,3-Retention
 2,4-Winback,2-Onboarding,1-Active Customer,2-Onboarding,1-Active Customer,2-Onboarding
-2,3-Retention,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
+1,3-Retention,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
 190,3-Retention,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
 90,1-Active Customer,3-Retention,3-Retention,3-Retention,1-Active Customer,3-Retention
-3,2-Onboarding,3-Retention,3-Retention,3-Retention,3-Retention,2-Onboarding
+1,1-Active Customer,2-Onboarding,3-Retention,1-Active Customer,3-Retention,1-Active Customer
 5,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding,1-Active Customer,2-Onboarding
-6,4-Winback,4-Winback,3-Retention,3-Retention,1-Active Customer,1-Active Customer
 25,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding,1-Active Customer
 74,1-Active Customer,1-Active Customer,3-Retention,1-Active Customer,3-Retention,1-Active Customer
-603,3-Retention,3-Retention,1-Active Customer,3-Retention,3-Retention,3-Retention
+601,3-Retention,3-Retention,1-Active Customer,3-Retention,3-Retention,3-Retention
 8,3-Retention,4-Winback,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer
-19,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention
 21,1-Active Customer,1-Active Customer,3-Retention,2-Onboarding,2-Onboarding,3-Retention
+19,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention
 1,2-Onboarding,2-Onboarding,1-Active Customer,3-Retention,3-Retention,1-Active Customer
-183,4-Winback,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer
-27,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding,3-Retention
+186,4-Winback,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer
+28,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding,3-Retention
 1,3-Retention,2-Onboarding,3-Retention,3-Retention,3-Retention,1-Active Customer
-1,3-Retention,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding
-48,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
-83,1-Active Customer,2-Onboarding,3-Retention,3-Retention,3-Retention,3-Retention
+42,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
 2,1-Active Customer,1-Active Customer,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding
+86,1-Active Customer,2-Onboarding,3-Retention,3-Retention,3-Retention,3-Retention
 15,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer
 1,1-Active Customer,3-Retention,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer
 68,1-Active Customer,3-Retention,3-Retention,1-Active Customer,1-Active Customer,3-Retention
 3,3-Retention,3-Retention,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding
 9,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding,3-Retention,3-Retention
-86,4-Winback,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
-80,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding
+92,4-Winback,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
 37,2-Onboarding,2-Onboarding,3-Retention,1-Active Customer,1-Active Customer,3-Retention
+80,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding
 1,4-Winback,1-Active Customer,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer
-1853,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
+1867,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
 4,1-Active Customer,2-Onboarding,1-Active Customer,1-Active Customer,3-Retention,3-Retention
 1,3-Retention,4-Winback,4-Winback,2-Onboarding,1-Active Customer,2-Onboarding
 4,3-Retention,1-Active Customer,2-Onboarding,3-Retention,3-Retention,3-Retention
-4,4-Winback,4-Winback,3-Retention,3-Retention,3-Retention,1-Active Customer
-142706,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention
+143745,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention
 2,2-Onboarding,2-Onboarding,1-Active Customer,3-Retention,1-Active Customer,1-Active Customer
 1,4-Winback,1-Active Customer,1-Active Customer,2-Onboarding,1-Active Customer,2-Onboarding
 455227,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
-182086,3-Retention,3-Retention,3-Retention,4-Winback,4-Winback,4-Winback
-4,3-Retention,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer
+182093,3-Retention,3-Retention,3-Retention,4-Winback,4-Winback,4-Winback
+2,3-Retention,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer
 1,3-Retention,3-Retention,1-Active Customer,1-Active Customer,2-Onboarding,1-Active Customer
 186,3-Retention,4-Winback,4-Winback,4-Winback,1-Active Customer,1-Active Customer
 10,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,3-Retention,1-Active Customer
 3,2-Onboarding,1-Active Customer,1-Active Customer,3-Retention,3-Retention,1-Active Customer
 282,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,1-Active Customer,3-Retention
-19,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,2-Onboarding,2-Onboarding
+20,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,2-Onboarding,2-Onboarding
 1,1-Active Customer,2-Onboarding,1-Active Customer,1-Active Customer,2-Onboarding,3-Retention
 1,1-Active Customer,1-Active Customer,2-Onboarding,1-Active Customer,2-Onboarding,3-Retention
-264,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding
-118,4-Winback,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding
+266,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding
+119,4-Winback,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding
 15,2-Onboarding,1-Active Customer,1-Active Customer,2-Onboarding,1-Active Customer,1-Active Customer
 5,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding,3-Retention,1-Active Customer
 1129,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,3-Retention,1-Active Customer
-419,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,3-Retention
+420,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,3-Retention
 16,3-Retention,3-Retention,4-Winback,4-Winback,1-Active Customer,2-Onboarding
 1,3-Retention,2-Onboarding,3-Retention,3-Retention,1-Active Customer,1-Active Customer
-10,4-Winback,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding
-1,3-Retention,3-Retention,2-Onboarding,2-Onboarding,3-Retention,3-Retention
+11,4-Winback,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding
 11,3-Retention,3-Retention,3-Retention,1-Active Customer,1-Active Customer,2-Onboarding
 24,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding,3-Retention
-105,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding
+106,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding
 5,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,1-Active Customer,3-Retention
-4,2-Onboarding,3-Retention,3-Retention,3-Retention,2-Onboarding,2-Onboarding
-2,3-Retention,4-Winback,1-Active Customer,3-Retention,3-Retention,3-Retention
+1,3-Retention,4-Winback,1-Active Customer,3-Retention,3-Retention,3-Retention
 2,4-Winback,4-Winback,1-Active Customer,1-Active Customer,2-Onboarding,1-Active Customer
-1,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention,3-Retention,2-Onboarding
 1,2-Onboarding,1-Active Customer,2-Onboarding,1-Active Customer,2-Onboarding,1-Active Customer
-1,4-Winback,4-Winback,3-Retention,1-Active Customer,1-Active Customer,3-Retention
-290,3-Retention,3-Retention,3-Retention,4-Winback,4-Winback,1-Active Customer
+294,3-Retention,3-Retention,3-Retention,4-Winback,4-Winback,1-Active Customer
 24,2-Onboarding,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,3-Retention
 1655,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,1-Active Customer,1-Active Customer
 1,4-Winback,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding,1-Active Customer
+37,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer
+131,4-Winback,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
+35,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding
 244,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,1-Active Customer
-127,4-Winback,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
-36,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer
-36,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding
-1310,3-Retention,3-Retention,4-Winback,4-Winback,2-Onboarding,2-Onboarding
+1337,3-Retention,3-Retention,4-Winback,4-Winback,2-Onboarding,2-Onboarding
 6,1-Active Customer,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer,3-Retention
 2,2-Onboarding,1-Active Customer,1-Active Customer,3-Retention,1-Active Customer,3-Retention
 16,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer,2-Onboarding,3-Retention
-578,3-Retention,3-Retention,3-Retention,3-Retention,3-Retention,2-Onboarding
-22,3-Retention,3-Retention,4-Winback,4-Winback,4-Winback,3-Retention
-53,2-Onboarding,2-Onboarding,3-Retention,3-Retention,1-Active Customer,3-Retention
+522,3-Retention,3-Retention,3-Retention,3-Retention,3-Retention,2-Onboarding
+52,2-Onboarding,2-Onboarding,3-Retention,3-Retention,1-Active Customer,3-Retention
 2,1-Active Customer,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding,1-Active Customer
 1,3-Retention,4-Winback,4-Winback,2-Onboarding,2-Onboarding,1-Active Customer
-5,3-Retention,3-Retention,3-Retention,4-Winback,3-Retention,1-Active Customer
 878,1-Active Customer,3-Retention,3-Retention,3-Retention,1-Active Customer,1-Active Customer
 6,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer,3-Retention,1-Active Customer
-747,4-Winback,4-Winback,4-Winback,3-Retention,3-Retention,3-Retention
-39,4-Winback,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
-19,2-Onboarding,1-Active Customer,3-Retention,3-Retention,3-Retention,3-Retention
+5,4-Winback,4-Winback,4-Winback,3-Retention,3-Retention,3-Retention
+21,2-Onboarding,1-Active Customer,3-Retention,3-Retention,3-Retention,3-Retention
 1,3-Retention,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer
-1,3-Retention,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding
-135,4-Winback,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer
-3,3-Retention,4-Winback,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer
-78,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention,1-Active Customer,3-Retention
-223,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding
+137,4-Winback,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer
+4,3-Retention,4-Winback,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer
+226,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding
+79,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention,1-Active Customer,3-Retention
 8,1-Active Customer,1-Active Customer,2-Onboarding,1-Active Customer,1-Active Customer,3-Retention
 3,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding,3-Retention,1-Active Customer
 36,2-Onboarding,2-Onboarding,3-Retention,1-Active Customer,3-Retention,3-Retention
-3138,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
-219,3-Retention,3-Retention,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer
-1,2-Onboarding,4-Winback,4-Winback,3-Retention,3-Retention,3-Retention
-251,3-Retention,3-Retention,3-Retention,3-Retention,4-Winback,1-Active Customer
+3165,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
+220,3-Retention,3-Retention,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer
+255,3-Retention,3-Retention,3-Retention,3-Retention,4-Winback,1-Active Customer
 242,3-Retention,3-Retention,3-Retention,4-Winback,1-Active Customer,1-Active Customer
 16,1-Active Customer,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention
-22817,1-Active Customer,3-Retention,3-Retention,3-Retention,3-Retention,3-Retention
+22809,1-Active Customer,3-Retention,3-Retention,3-Retention,3-Retention,3-Retention
 3,3-Retention,3-Retention,3-Retention,2-Onboarding,1-Active Customer,1-Active Customer
-2,4-Winback,4-Winback,3-Retention,1-Active Customer,3-Retention,3-Retention
-1138,3-Retention,4-Winback,4-Winback,4-Winback,2-Onboarding,2-Onboarding
+1168,3-Retention,4-Winback,4-Winback,4-Winback,2-Onboarding,2-Onboarding
 39,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,1-Active Customer
 39,1-Active Customer,3-Retention,1-Active Customer,1-Active Customer,3-Retention,1-Active Customer
 13,1-Active Customer,1-Active Customer,3-Retention,3-Retention,2-Onboarding,3-Retention
-330,4-Winback,4-Winback,4-Winback,1-Active Customer,1-Active Customer,2-Onboarding
-788,3-Retention,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
-510,3-Retention,1-Active Customer,1-Active Customer,3-Retention,3-Retention,3-Retention
-131,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer,3-Retention
+338,4-Winback,4-Winback,4-Winback,1-Active Customer,1-Active Customer,2-Onboarding
+718,3-Retention,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
+508,3-Retention,1-Active Customer,1-Active Customer,3-Retention,3-Retention,3-Retention
+133,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer,3-Retention
 23,2-Onboarding,3-Retention,3-Retention,1-Active Customer,1-Active Customer,3-Retention
 5,1-Active Customer,2-Onboarding,3-Retention,3-Retention,1-Active Customer,1-Active Customer
-1,3-Retention,4-Winback,4-Winback,4-Winback,3-Retention,1-Active Customer
-21,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding
+22,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding
 19,4-Winback,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer,2-Onboarding
 1,1-Active Customer,2-Onboarding,1-Active Customer,3-Retention,3-Retention,1-Active Customer
-83,4-Winback,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding
+84,4-Winback,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding
 50,1-Active Customer,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
-300,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
+303,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
 12,4-Winback,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding
 4,3-Retention,3-Retention,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding
 2,3-Retention,4-Winback,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer
-33491,4-Winback,4-Winback,4-Winback,4-Winback,2-Onboarding,2-Onboarding
-1358,3-Retention,4-Winback,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
-45,3-Retention,3-Retention,3-Retention,4-Winback,4-Winback,3-Retention
-4,3-Retention,4-Winback,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding
-39849,4-Winback,4-Winback,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
+34244,4-Winback,4-Winback,4-Winback,4-Winback,2-Onboarding,2-Onboarding
+1394,3-Retention,4-Winback,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
+5,3-Retention,4-Winback,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding
+40746,4-Winback,4-Winback,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
 14,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding
 1,1-Active Customer,2-Onboarding,1-Active Customer,1-Active Customer,3-Retention,1-Active Customer
 7,4-Winback,4-Winback,4-Winback,1-Active Customer,2-Onboarding,1-Active Customer
 9,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,2-Onboarding,3-Retention
-2,4-Winback,3-Retention,3-Retention,3-Retention,1-Active Customer,1-Active Customer
 32,1-Active Customer,3-Retention,2-Onboarding,2-Onboarding,3-Retention,3-Retention
-4,3-Retention,4-Winback,4-Winback,4-Winback,2-Onboarding,1-Active Customer
-4039440,3-Retention,3-Retention,3-Retention,3-Retention,3-Retention,3-Retention
-4,3-Retention,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
+5,3-Retention,4-Winback,4-Winback,4-Winback,2-Onboarding,1-Active Customer
+4034464,3-Retention,3-Retention,3-Retention,3-Retention,3-Retention,3-Retention
+3,3-Retention,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
 7,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer
 1,2-Onboarding,1-Active Customer,2-Onboarding,3-Retention,3-Retention,1-Active Customer
-111948,2-Onboarding,3-Retention,3-Retention,3-Retention,3-Retention,3-Retention
-539,3-Retention,3-Retention,1-Active Customer,1-Active Customer,3-Retention,3-Retention
-1,4-Winback,4-Winback,3-Retention,3-Retention,1-Active Customer,3-Retention
+112769,2-Onboarding,3-Retention,3-Retention,3-Retention,3-Retention,3-Retention
+537,3-Retention,3-Retention,1-Active Customer,1-Active Customer,3-Retention,3-Retention
 4,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,3-Retention,1-Active Customer
 4,2-Onboarding,1-Active Customer,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer
-868,3-Retention,4-Winback,4-Winback,4-Winback,4-Winback,2-Onboarding
+895,3-Retention,4-Winback,4-Winback,4-Winback,4-Winback,2-Onboarding
 189,1-Active Customer,3-Retention,1-Active Customer,3-Retention,3-Retention,3-Retention
-1,2-Onboarding,2-Onboarding,3-Retention,3-Retention,2-Onboarding,2-Onboarding
-130749,3-Retention,3-Retention,3-Retention,3-Retention,3-Retention,4-Winback
+130750,3-Retention,3-Retention,3-Retention,3-Retention,3-Retention,4-Winback
 4,4-Winback,1-Active Customer,1-Active Customer,2-Onboarding,1-Active Customer,1-Active Customer
 74,3-Retention,3-Retention,1-Active Customer,3-Retention,1-Active Customer,1-Active Customer
 69,3-Retention,3-Retention,1-Active Customer,1-Active Customer,3-Retention,1-Active Customer
 3,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding,1-Active Customer,3-Retention
-1,3-Retention,3-Retention,4-Winback,3-Retention,3-Retention,1-Active Customer
-21384,3-Retention,3-Retention,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer
-20516,3-Retention,3-Retention,3-Retention,3-Retention,3-Retention,1-Active Customer
+21365,3-Retention,3-Retention,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer
+20486,3-Retention,3-Retention,3-Retention,3-Retention,3-Retention,1-Active Customer
 3,3-Retention,3-Retention,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer
-15,4-Winback,4-Winback,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding
+16,4-Winback,4-Winback,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding
 1161,1-Active Customer,3-Retention,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer
 2,4-Winback,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding,1-Active Customer
-718,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention,3-Retention,1-Active Customer
+723,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention,3-Retention,1-Active Customer
 1,3-Retention,3-Retention,3-Retention,4-Winback,1-Active Customer,3-Retention
-5,4-Winback,4-Winback,4-Winback,3-Retention,1-Active Customer,2-Onboarding
-19146,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
-616,4-Winback,4-Winback,4-Winback,4-Winback,4-Winback,3-Retention
-47,1-Active Customer,1-Active Customer,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer
+19099,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
+48,1-Active Customer,1-Active Customer,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer
 71,1-Active Customer,3-Retention,1-Active Customer,3-Retention,1-Active Customer,1-Active Customer
-293,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention
+4,4-Winback,4-Winback,4-Winback,4-Winback,4-Winback,3-Retention
+295,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention
 6,3-Retention,4-Winback,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding
-18,4-Winback,4-Winback,1-Active Customer,1-Active Customer,3-Retention,3-Retention
 10,1-Active Customer,2-Onboarding,2-Onboarding,3-Retention,3-Retention,1-Active Customer
+13,4-Winback,4-Winback,1-Active Customer,1-Active Customer,3-Retention,3-Retention
 31,2-Onboarding,2-Onboarding,1-Active Customer,3-Retention,3-Retention,3-Retention
-45,3-Retention,3-Retention,3-Retention,4-Winback,3-Retention,3-Retention
 2,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,2-Onboarding
 2,3-Retention,3-Retention,4-Winback,4-Winback,1-Active Customer,3-Retention
 110,3-Retention,1-Active Customer,1-Active Customer,3-Retention,1-Active Customer,1-Active Customer
-23,3-Retention,4-Winback,4-Winback,3-Retention,3-Retention,3-Retention
-17,4-Winback,4-Winback,4-Winback,4-Winback,3-Retention,2-Onboarding
-4,4-Winback,4-Winback,4-Winback,3-Retention,3-Retention,1-Active Customer
 116,3-Retention,3-Retention,3-Retention,1-Active Customer,3-Retention,1-Active Customer
-21,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding
+22,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding
 2,2-Onboarding,1-Active Customer,3-Retention,3-Retention,1-Active Customer,1-Active Customer
-1927,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,3-Retention
-24,4-Winback,3-Retention,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
+1924,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,3-Retention
 82,1-Active Customer,3-Retention,3-Retention,1-Active Customer,3-Retention,3-Retention
 4,1-Active Customer,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding,3-Retention
-32,2-Onboarding,1-Active Customer,1-Active Customer,3-Retention,3-Retention,3-Retention
+33,2-Onboarding,1-Active Customer,1-Active Customer,3-Retention,3-Retention,3-Retention
 3,1-Active Customer,2-Onboarding,1-Active Customer,2-Onboarding,3-Retention,3-Retention
 1,1-Active Customer,2-Onboarding,1-Active Customer,3-Retention,3-Retention,3-Retention
-584,2-Onboarding,3-Retention,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer
-46,2-Onboarding,3-Retention,3-Retention,3-Retention,1-Active Customer,3-Retention
+588,2-Onboarding,3-Retention,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer
+47,2-Onboarding,3-Retention,3-Retention,3-Retention,1-Active Customer,3-Retention
 1,3-Retention,3-Retention,3-Retention,2-Onboarding,1-Active Customer,2-Onboarding
-26,3-Retention,3-Retention,4-Winback,4-Winback,3-Retention,3-Retention
 1,3-Retention,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention
-1612,3-Retention,3-Retention,3-Retention,4-Winback,2-Onboarding,2-Onboarding
-208,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,3-Retention,3-Retention
+1,3-Retention,3-Retention,4-Winback,4-Winback,3-Retention,3-Retention
+1656,3-Retention,3-Retention,3-Retention,4-Winback,2-Onboarding,2-Onboarding
+209,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,3-Retention,3-Retention
 8,3-Retention,4-Winback,4-Winback,2-Onboarding,1-Active Customer,1-Active Customer
-728,2-Onboarding,2-Onboarding,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer
-15,3-Retention,3-Retention,3-Retention,4-Winback,1-Active Customer,2-Onboarding
+732,2-Onboarding,2-Onboarding,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer
+16,3-Retention,3-Retention,3-Retention,4-Winback,1-Active Customer,2-Onboarding
 1321,3-Retention,3-Retention,3-Retention,3-Retention,1-Active Customer,3-Retention
 6,4-Winback,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention
 1,3-Retention,4-Winback,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding
 110,1-Active Customer,1-Active Customer,3-Retention,3-Retention,1-Active Customer,3-Retention
-759,3-Retention,1-Active Customer,3-Retention,3-Retention,3-Retention,3-Retention
-285,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention,3-Retention
+757,3-Retention,1-Active Customer,3-Retention,3-Retention,3-Retention,3-Retention
+286,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention,3-Retention
 255,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
 3,3-Retention,3-Retention,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer
 18,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer
-3533,4-Winback,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
-306,4-Winback,4-Winback,4-Winback,1-Active Customer,2-Onboarding,2-Onboarding
+3568,4-Winback,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
+315,4-Winback,4-Winback,4-Winback,1-Active Customer,2-Onboarding,2-Onboarding
 21100,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention
 21,2-Onboarding,3-Retention,1-Active Customer,3-Retention,3-Retention,3-Retention
-1475,3-Retention,3-Retention,4-Winback,2-Onboarding,2-Onboarding,2-Onboarding
+1508,3-Retention,3-Retention,4-Winback,2-Onboarding,2-Onboarding,2-Onboarding
 976,1-Active Customer,1-Active Customer,3-Retention,3-Retention,3-Retention,1-Active Customer
 6,1-Active Customer,2-Onboarding,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer
 2,1-Active Customer,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding,3-Retention
 1,1-Active Customer,1-Active Customer,2-Onboarding,3-Retention,3-Retention,1-Active Customer
 1,2-Onboarding,1-Active Customer,2-Onboarding,3-Retention,1-Active Customer,1-Active Customer
 1,4-Winback,1-Active Customer,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding
-347,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention
+349,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention
 58,3-Retention,3-Retention,1-Active Customer,3-Retention,1-Active Customer,3-Retention
 1,3-Retention,2-Onboarding,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer
-457,2-Onboarding,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
+461,2-Onboarding,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
 13,2-Onboarding,1-Active Customer,1-Active Customer,2-Onboarding,3-Retention,3-Retention
 5,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding,1-Active Customer
-101,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention
+99,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention
 100,1-Active Customer,3-Retention,1-Active Customer,3-Retention,1-Active Customer,3-Retention
 9,1-Active Customer,1-Active Customer,3-Retention,2-Onboarding,3-Retention,3-Retention
 2,1-Active Customer,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding,1-Active Customer
 1574,1-Active Customer,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
 34,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding
-40,2-Onboarding,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding
-7,4-Winback,4-Winback,3-Retention,2-Onboarding,2-Onboarding,2-Onboarding
-10,4-Winback,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding
-4,4-Winback,4-Winback,3-Retention,1-Active Customer,2-Onboarding,2-Onboarding
+39,2-Onboarding,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding
+12,4-Winback,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding
 56,3-Retention,1-Active Customer,1-Active Customer,3-Retention,3-Retention,1-Active Customer
-24,4-Winback,1-Active Customer,3-Retention,3-Retention,3-Retention,3-Retention
+19,4-Winback,1-Active Customer,3-Retention,3-Retention,3-Retention,3-Retention
 764,1-Active Customer,3-Retention,3-Retention,3-Retention,3-Retention,1-Active Customer
-1416,3-Retention,3-Retention,3-Retention,4-Winback,4-Winback,2-Onboarding
+1455,3-Retention,3-Retention,3-Retention,4-Winback,4-Winback,2-Onboarding
 1,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,2-Onboarding,1-Active Customer
 70,3-Retention,1-Active Customer,3-Retention,1-Active Customer,3-Retention,1-Active Customer
-3,4-Winback,3-Retention,3-Retention,3-Retention,3-Retention,1-Active Customer
-1682,1-Active Customer,1-Active Customer,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer
-40,4-Winback,4-Winback,4-Winback,4-Winback,3-Retention,1-Active Customer
-108,4-Winback,4-Winback,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer
-668,2-Onboarding,2-Onboarding,3-Retention,3-Retention,3-Retention,1-Active Customer
-4151,4-Winback,4-Winback,4-Winback,4-Winback,1-Active Customer,1-Active Customer
-636,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention,1-Active Customer
+1681,1-Active Customer,1-Active Customer,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer
+113,4-Winback,4-Winback,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer
+675,2-Onboarding,2-Onboarding,3-Retention,3-Retention,3-Retention,1-Active Customer
+4170,4-Winback,4-Winback,4-Winback,4-Winback,1-Active Customer,1-Active Customer
+640,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention,1-Active Customer
 1,2-Onboarding,1-Active Customer,2-Onboarding,1-Active Customer,1-Active Customer,3-Retention
-4490,4-Winback,4-Winback,4-Winback,4-Winback,4-Winback,1-Active Customer
-969,4-Winback,3-Retention,3-Retention,3-Retention,3-Retention,3-Retention
-7,3-Retention,3-Retention,3-Retention,3-Retention,1-Active Customer,2-Onboarding
-25,4-Winback,4-Winback,4-Winback,1-Active Customer,3-Retention,3-Retention
+4527,4-Winback,4-Winback,4-Winback,4-Winback,4-Winback,1-Active Customer
+9,4-Winback,3-Retention,3-Retention,3-Retention,3-Retention,3-Retention
+6,3-Retention,3-Retention,3-Retention,3-Retention,1-Active Customer,2-Onboarding
+21,4-Winback,4-Winback,4-Winback,1-Active Customer,3-Retention,3-Retention
 4,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer
 643,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention
 35,3-Retention,1-Active Customer,3-Retention,3-Retention,1-Active Customer,3-Retention
+138043,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention,3-Retention,3-Retention
 102,4-Winback,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer
-137081,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention,3-Retention,3-Retention
-2,3-Retention,3-Retention,4-Winback,3-Retention,2-Onboarding,2-Onboarding
 10,3-Retention,3-Retention,4-Winback,1-Active Customer,2-Onboarding,2-Onboarding
-144,4-Winback,4-Winback,4-Winback,2-Onboarding,1-Active Customer,1-Active Customer
 3,4-Winback,2-Onboarding,1-Active Customer,2-Onboarding,1-Active Customer,1-Active Customer
+150,4-Winback,4-Winback,4-Winback,2-Onboarding,1-Active Customer,1-Active Customer
 10,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding,3-Retention,3-Retention
-875,4-Winback,4-Winback,3-Retention,3-Retention,3-Retention,3-Retention
+5,4-Winback,4-Winback,3-Retention,3-Retention,3-Retention,3-Retention
 2,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding
-3915,4-Winback,4-Winback,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer
+3955,4-Winback,4-Winback,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer
 2,4-Winback,2-Onboarding,1-Active Customer,1-Active Customer,2-Onboarding,1-Active Customer
-1933,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
-43211,4-Winback,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
+1952,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
+44190,4-Winback,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
 25,3-Retention,2-Onboarding,2-Onboarding,3-Retention,3-Retention,3-Retention
-34,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding
 71,3-Retention,1-Active Customer,3-Retention,1-Active Customer,3-Retention,3-Retention
+31,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding
 12,3-Retention,3-Retention,2-Onboarding,3-Retention,3-Retention,3-Retention
-5,3-Retention,3-Retention,3-Retention,2-Onboarding,2-Onboarding,1-Active Customer
+2,3-Retention,3-Retention,3-Retention,2-Onboarding,2-Onboarding,1-Active Customer
+1207,3-Retention,3-Retention,3-Retention,3-Retention,4-Winback,2-Onboarding
 147,1-Active Customer,1-Active Customer,3-Retention,1-Active Customer,1-Active Customer,3-Retention
-1176,3-Retention,3-Retention,3-Retention,3-Retention,4-Winback,2-Onboarding
 6,4-Winback,4-Winback,2-Onboarding,1-Active Customer,2-Onboarding,1-Active Customer
-1006,3-Retention,3-Retention,3-Retention,1-Active Customer,1-Active Customer,3-Retention
 78,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,3-Retention,3-Retention
-19816,3-Retention,3-Retention,3-Retention,3-Retention,1-Active Customer,1-Active Customer
+1004,3-Retention,3-Retention,3-Retention,1-Active Customer,1-Active Customer,3-Retention
+19800,3-Retention,3-Retention,3-Retention,3-Retention,1-Active Customer,1-Active Customer
 2,2-Onboarding,1-Active Customer,2-Onboarding,1-Active Customer,3-Retention,3-Retention
-4,3-Retention,3-Retention,4-Winback,2-Onboarding,2-Onboarding,1-Active Customer
+5,3-Retention,3-Retention,4-Winback,2-Onboarding,2-Onboarding,1-Active Customer
 1,1-Active Customer,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding
 73,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding,3-Retention,3-Retention
-33,3-Retention,3-Retention,4-Winback,3-Retention,3-Retention,3-Retention
 3,1-Active Customer,2-Onboarding,1-Active Customer,1-Active Customer,2-Onboarding,1-Active Customer
 7,4-Winback,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding
 7,1-Active Customer,3-Retention,2-Onboarding,3-Retention,3-Retention,3-Retention
 2,3-Retention,3-Retention,3-Retention,3-Retention,2-Onboarding,1-Active Customer
 15,2-Onboarding,1-Active Customer,2-Onboarding,3-Retention,3-Retention,3-Retention
 1,2-Onboarding,3-Retention,1-Active Customer,3-Retention,1-Active Customer,3-Retention
-226,1-Active Customer,2-Onboarding,2-Onboarding,3-Retention,3-Retention,3-Retention
-135108,2-Onboarding,2-Onboarding,3-Retention,3-Retention,3-Retention,3-Retention
-264,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,3-Retention
+266,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,3-Retention
+136125,2-Onboarding,2-Onboarding,3-Retention,3-Retention,3-Retention,3-Retention
+228,1-Active Customer,2-Onboarding,2-Onboarding,3-Retention,3-Retention,3-Retention
 41,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding,1-Active Customer,1-Active Customer
-795,3-Retention,3-Retention,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
+740,3-Retention,3-Retention,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
 1,4-Winback,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,1-Active Customer
 1553,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,1-Active Customer
 17,3-Retention,1-Active Customer,1-Active Customer,3-Retention,1-Active Customer,3-Retention
 1,1-Active Customer,3-Retention,1-Active Customer,2-Onboarding,3-Retention,3-Retention
-21008,1-Active Customer,1-Active Customer,3-Retention,3-Retention,3-Retention,3-Retention
-24,4-Winback,4-Winback,4-Winback,1-Active Customer,1-Active Customer,3-Retention
+21002,1-Active Customer,1-Active Customer,3-Retention,3-Retention,3-Retention,3-Retention
+16,4-Winback,4-Winback,4-Winback,1-Active Customer,1-Active Customer,3-Retention
 12,3-Retention,3-Retention,4-Winback,2-Onboarding,1-Active Customer,1-Active Customer
-2,2-Onboarding,3-Retention,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
-673,2-Onboarding,2-Onboarding,3-Retention,3-Retention,1-Active Customer,1-Active Customer
+680,2-Onboarding,2-Onboarding,3-Retention,3-Retention,1-Active Customer,1-Active Customer
 12,2-Onboarding,1-Active Customer,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer
 3,2-Onboarding,1-Active Customer,2-Onboarding,1-Active Customer,1-Active Customer,2-Onboarding
-2198,3-Retention,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention
-9497733,4-Winback,4-Winback,4-Winback,4-Winback,4-Winback,4-Winback
-103,4-Winback,4-Winback,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding
+2196,3-Retention,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention
+9497771,4-Winback,4-Winback,4-Winback,4-Winback,4-Winback,4-Winback
+108,4-Winback,4-Winback,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding
 3,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding,1-Active Customer,3-Retention
 250,3-Retention,3-Retention,4-Winback,4-Winback,4-Winback,1-Active Customer
-30,4-Winback,4-Winback,4-Winback,3-Retention,2-Onboarding,2-Onboarding
 2,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,2-Onboarding
 13,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding,1-Active Customer
-21,4-Winback,4-Winback,4-Winback,4-Winback,1-Active Customer,3-Retention
-157555,3-Retention,3-Retention,3-Retention,3-Retention,4-Winback,4-Winback
+11,4-Winback,4-Winback,4-Winback,4-Winback,1-Active Customer,3-Retention
+157558,3-Retention,3-Retention,3-Retention,3-Retention,4-Winback,4-Winback
 4,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,1-Active Customer,2-Onboarding
 1,1-Active Customer,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding
 184,1-Active Customer,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention
 15,3-Retention,3-Retention,4-Winback,1-Active Customer,1-Active Customer,2-Onboarding
-98633,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
-119,4-Winback,4-Winback,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer
-468,4-Winback,4-Winback,4-Winback,4-Winback,1-Active Customer,2-Onboarding
-20656,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,3-Retention,3-Retention
-199,3-Retention,4-Winback,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer
+99149,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding
+123,4-Winback,4-Winback,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer
+483,4-Winback,4-Winback,4-Winback,4-Winback,1-Active Customer,2-Onboarding
+20651,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,3-Retention,3-Retention
 39,1-Active Customer,3-Retention,1-Active Customer,3-Retention,3-Retention,1-Active Customer
-34,3-Retention,3-Retention,3-Retention,3-Retention,4-Winback,3-Retention
+199,3-Retention,4-Winback,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer
 9,3-Retention,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention
 1,2-Onboarding,3-Retention,1-Active Customer,3-Retention,3-Retention,1-Active Customer
 5,3-Retention,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding
-42,4-Winback,4-Winback,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer
 3,2-Onboarding,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,1-Active Customer
-28915,4-Winback,4-Winback,4-Winback,4-Winback,4-Winback,2-Onboarding
-749,3-Retention,3-Retention,3-Retention,3-Retention,2-Onboarding,2-Onboarding
+29506,4-Winback,4-Winback,4-Winback,4-Winback,4-Winback,2-Onboarding
+716,3-Retention,3-Retention,3-Retention,3-Retention,2-Onboarding,2-Onboarding
 3,3-Retention,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer
-61,2-Onboarding,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention
-951,3-Retention,3-Retention,3-Retention,2-Onboarding,2-Onboarding,2-Onboarding
-165,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,3-Retention
+62,2-Onboarding,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention
+905,3-Retention,3-Retention,3-Retention,2-Onboarding,2-Onboarding,2-Onboarding
+163,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,3-Retention
 156,1-Active Customer,1-Active Customer,3-Retention,1-Active Customer,3-Retention,3-Retention
-1,3-Retention,4-Winback,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer
-154,4-Winback,4-Winback,4-Winback,4-Winback,2-Onboarding,1-Active Customer
-8,3-Retention,4-Winback,4-Winback,4-Winback,1-Active Customer,2-Onboarding
-41,1-Active Customer,3-Retention,3-Retention,1-Active Customer,3-Retention,1-Active Customer
+157,4-Winback,4-Winback,4-Winback,4-Winback,2-Onboarding,1-Active Customer
+9,3-Retention,4-Winback,4-Winback,4-Winback,1-Active Customer,2-Onboarding
+40,1-Active Customer,3-Retention,3-Retention,1-Active Customer,3-Retention,1-Active Customer
 8,3-Retention,3-Retention,4-Winback,4-Winback,2-Onboarding,1-Active Customer
-8,4-Winback,1-Active Customer,1-Active Customer,3-Retention,3-Retention,3-Retention
-32,3-Retention,4-Winback,4-Winback,4-Winback,3-Retention,3-Retention
-598,2-Onboarding,3-Retention,3-Retention,3-Retention,3-Retention,1-Active Customer
+7,4-Winback,1-Active Customer,1-Active Customer,3-Retention,3-Retention,3-Retention
+1,3-Retention,4-Winback,4-Winback,4-Winback,3-Retention,3-Retention
+605,2-Onboarding,3-Retention,3-Retention,3-Retention,3-Retention,1-Active Customer
 12,3-Retention,4-Winback,4-Winback,1-Active Customer,2-Onboarding,2-Onboarding
 3,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,3-Retention
-36755,4-Winback,4-Winback,4-Winback,2-Onboarding,2-Onboarding,2-Onboarding
+37500,4-Winback,4-Winback,4-Winback,2-Onboarding,2-Onboarding,2-Onboarding
 4,2-Onboarding,1-Active Customer,1-Active Customer,2-Onboarding,1-Active Customer,3-Retention
 1,1-Active Customer,2-Onboarding,1-Active Customer,2-Onboarding,1-Active Customer,3-Retention
 38,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,1-Active Customer
-1104,1-Active Customer,1-Active Customer,3-Retention,3-Retention,1-Active Customer,1-Active Customer
-1,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,4-Winback
-1,2-Onboarding,3-Retention,3-Retention,2-Onboarding,2-Onboarding,1-Active Customer
+1103,1-Active Customer,1-Active Customer,3-Retention,3-Retention,1-Active Customer,1-Active Customer
 16,2-Onboarding,3-Retention,1-Active Customer,1-Active Customer,3-Retention,3-Retention
-730,4-Winback,4-Winback,4-Winback,4-Winback,3-Retention,3-Retention
-10,4-Winback,4-Winback,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding
+11,4-Winback,4-Winback,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding
+3,4-Winback,4-Winback,4-Winback,4-Winback,3-Retention,3-Retention
 1,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding
 186,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention
-30,3-Retention,4-Winback,4-Winback,4-Winback,4-Winback,3-Retention
-18591,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,3-Retention
+18588,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,3-Retention
 6,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,2-Onboarding
 3,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding,1-Active Customer
 3,2-Onboarding,1-Active Customer,1-Active Customer,3-Retention,1-Active Customer,1-Active Customer
-1377,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer
+1379,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer
 147123,3-Retention,3-Retention,4-Winback,4-Winback,4-Winback,4-Winback
-71,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention
-171,4-Winback,4-Winback,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer
+173,4-Winback,4-Winback,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer
+67,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention
 29,1-Active Customer,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer
-136756,3-Retention,4-Winback,4-Winback,4-Winback,4-Winback,4-Winback
+136761,3-Retention,4-Winback,4-Winback,4-Winback,4-Winback,4-Winback
 1,4-Winback,1-Active Customer,2-Onboarding,1-Active Customer,1-Active Customer,2-Onboarding
-1232,3-Retention,4-Winback,4-Winback,2-Onboarding,2-Onboarding,2-Onboarding
+1256,3-Retention,4-Winback,4-Winback,2-Onboarding,2-Onboarding,2-Onboarding
 91,1-Active Customer,3-Retention,1-Active Customer,1-Active Customer,3-Retention,3-Retention
-1,2-Onboarding,2-Onboarding,3-Retention,2-Onboarding,2-Onboarding,2-Onboarding
-17,4-Winback,4-Winback,4-Winback,2-Onboarding,1-Active Customer,2-Onboarding
+18,4-Winback,4-Winback,4-Winback,2-Onboarding,1-Active Customer,2-Onboarding
 83,1-Active Customer,1-Active Customer,2-Onboarding,3-Retention,3-Retention,3-Retention
 3,1-Active Customer,1-Active Customer,2-Onboarding,1-Active Customer,3-Retention,3-Retention
 100,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding,3-Retention
 29,3-Retention,1-Active Customer,3-Retention,1-Active Customer,1-Active Customer,3-Retention
-664,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention,1-Active Customer,1-Active Customer
-115,4-Winback,4-Winback,4-Winback,2-Onboarding,2-Onboarding,1-Active Customer
+668,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention,1-Active Customer,1-Active Customer
+119,4-Winback,4-Winback,4-Winback,2-Onboarding,2-Onboarding,1-Active Customer
 21,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,1-Active Customer
 33,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding,2-Onboarding
 2,3-Retention,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding
 3,1-Active Customer,1-Active Customer,2-Onboarding,1-Active Customer,1-Active Customer,2-Onboarding
 121,4-Winback,4-Winback,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding
-24,4-Winback,4-Winback,4-Winback,3-Retention,1-Active Customer,1-Active Customer
 8,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention,1-Active Customer
 3,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding
 2,2-Onboarding,1-Active Customer,2-Onboarding,1-Active Customer,2-Onboarding,3-Retention
 492,4-Winback,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention
-17,4-Winback,4-Winback,2-Onboarding,1-Active Customer,1-Active Customer,2-Onboarding
-1,3-Retention,4-Winback,4-Winback,4-Winback,1-Active Customer,3-Retention
-875,3-Retention,3-Retention,3-Retention,1-Active Customer,3-Retention,3-Retention
-1,4-Winback,4-Winback,4-Winback,3-Retention,1-Active Customer,3-Retention
-2,3-Retention,4-Winback,4-Winback,4-Winback,3-Retention,2-Onboarding
+18,4-Winback,4-Winback,2-Onboarding,1-Active Customer,1-Active Customer,2-Onboarding
+876,3-Retention,3-Retention,3-Retention,1-Active Customer,3-Retention,3-Retention
 8,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer,2-Onboarding,1-Active Customer
 65,3-Retention,1-Active Customer,3-Retention,3-Retention,1-Active Customer,1-Active Customer
 1,3-Retention,4-Winback,4-Winback,1-Active Customer,1-Active Customer,3-Retention
 1,2-Onboarding,1-Active Customer,2-Onboarding,1-Active Customer,3-Retention,1-Active Customer
 24,2-Onboarding,3-Retention,3-Retention,1-Active Customer,3-Retention,3-Retention
-1098,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer
+1105,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer
 20,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer
 17,4-Winback,4-Winback,1-Active Customer,3-Retention,3-Retention,3-Retention
-20123,3-Retention,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
+20101,3-Retention,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer
 1,1-Active Customer,2-Onboarding,3-Retention,3-Retention,3-Retention,1-Active Customer
 15,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention,3-Retention,2-Onboarding
-37,3-Retention,4-Winback,3-Retention,3-Retention,3-Retention,3-Retention
 42,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer,2-Onboarding
 2,1-Active Customer,1-Active Customer,3-Retention,1-Active Customer,2-Onboarding,3-Retention
 6,3-Retention,3-Retention,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer
 13,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding,1-Active Customer
-3,4-Winback,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer,3-Retention
 2,2-Onboarding,3-Retention,3-Retention,1-Active Customer,3-Retention,1-Active Customer
-48,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer,3-Retention,3-Retention
-1132,3-Retention,3-Retention,4-Winback,4-Winback,4-Winback,2-Onboarding
-538,2-Onboarding,3-Retention,3-Retention,3-Retention,1-Active Customer,1-Active Customer
+50,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer,3-Retention,3-Retention
+1154,3-Retention,3-Retention,4-Winback,4-Winback,4-Winback,2-Onboarding
+540,2-Onboarding,3-Retention,3-Retention,3-Retention,1-Active Customer,1-Active Customer
 9,3-Retention,4-Winback,4-Winback,1-Active Customer,1-Active Customer,2-Onboarding
 62,3-Retention,1-Active Customer,3-Retention,3-Retention,3-Retention,1-Active Customer
 9,4-Winback,2-Onboarding,1-Active Customer,1-Active Customer,2-Onboarding,2-Onboarding
-86,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding
+90,4-Winback,1-Active Customer,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding
 2,1-Active Customer,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer,2-Onboarding
-2047,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer
+2056,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer,1-Active Customer
 16,1-Active Customer,3-Retention,3-Retention,2-Onboarding,3-Retention,3-Retention
 2,2-Onboarding,2-Onboarding,3-Retention,1-Active Customer,3-Retention,1-Active Customer
 1,3-Retention,3-Retention,1-Active Customer,1-Active Customer,1-Active Customer,2-Onboarding
@@ -441,12 +395,12 @@ CNT,CLIENT_ADDVERY_SEGMENT_JUN,CLIENT_ADDVERY_SEGMENT_JUL,CLIENT_ADDVERY_SEGMENT
 60,3-Retention,3-Retention,1-Active Customer,3-Retention,3-Retention,1-Active Customer
 1,1-Active Customer,3-Retention,2-Onboarding,2-Onboarding,1-Active Customer,1-Active Customer
 6,1-Active Customer,2-Onboarding,2-Onboarding,3-Retention,1-Active Customer,1-Active Customer
-122,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,3-Retention
-104586,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention,3-Retention
+123,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,3-Retention
+105385,2-Onboarding,2-Onboarding,2-Onboarding,2-Onboarding,3-Retention,3-Retention
 52,2-Onboarding,2-Onboarding,2-Onboarding,1-Active Customer,2-Onboarding,3-Retention
 3,1-Active Customer,1-Active Customer,2-Onboarding,3-Retention,1-Active Customer,1-Active Customer
-5,3-Retention,3-Retention,3-Retention,1-Active Customer,2-Onboarding,2-Onboarding
-3,3-Retention,3-Retention,3-Retention,4-Winback,2-Onboarding,1-Active Customer
+4,3-Retention,3-Retention,3-Retention,1-Active Customer,2-Onboarding,2-Onboarding
+4,3-Retention,3-Retention,3-Retention,4-Winback,2-Onboarding,1-Active Customer
 2,2-Onboarding,1-Active Customer,3-Retention,1-Active Customer,1-Active Customer,3-Retention
 1,1-Active Customer,2-Onboarding,1-Active Customer,2-Onboarding,1-Active Customer,1-Active Customer
 184,3-Retention,4-Winback,4-Winback,4-Winback,4-Winback,1-Active Customer
