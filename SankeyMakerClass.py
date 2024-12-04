@@ -158,7 +158,7 @@ class SankeyMaker():
         # get unique nodes
         self.unique_nodes_bef_rename = list(pd.concat([self.df[stage_col] for stage_col in self.stage_cols_map]).unique())
         self.unique_nodes_aft_rename = list(pd.concat([df[stage_col] for stage_col in self.stage_cols_map]).unique())
-        self.label_map = {channel: idx for idx, channel in enumerate(self.unique_nodes_aft_rename)}
+        self.label_map = {node: idx for idx, node in enumerate(self.unique_nodes_aft_rename)}
         
         # update df
         self.df = df

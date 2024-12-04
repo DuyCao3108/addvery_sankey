@@ -27,15 +27,9 @@ CUSTOM_SETTINGS = {
     "hide_stage_label": 5,
     "unit_divide": 1_000,
     "color_theme_name": "THEME_1", # watch out CASE
-    # "to_hide_src_tar": [
-    #     (3, "New Signed"),
-    #     (4, "3-Retention")
-    # ],
-    
     # "color_overwrite": {
     #     "NC": "#3C3D37"
     # },
-    # "node_tohide_sr_tar": "New Sign"
 }
 
 # CUSTOM_SETTINGS = None
